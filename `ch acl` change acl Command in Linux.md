@@ -1,4 +1,4 @@
-`chacl` Command in Linux
+`chacl`(ACL Command in Linux)
 
 The `chacl` (change ACL) command is used to change the Access Control Lists (ACLs) of files and directories in Linux. ACLs provide a more flexible permission mechanism than the traditional Unix permission model.
 
